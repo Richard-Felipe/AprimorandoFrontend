@@ -61,8 +61,16 @@ body{
     border-radius: 8px;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
+    font-size: 24px;
     text-align: center;
     padding: 21.5px 0;
     text-decoration: none;
     color: #F6F6F6;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.apresentacao__botoes__link:hover{
+    background-color: #272727;    ;
 }
